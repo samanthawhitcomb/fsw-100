@@ -1,0 +1,9 @@
+h1 {
+    font-family: Georgia;
+    font-weight: bold;
+    color: blue;
+}
+
+table, th, td, tr {
+    border: 2px solid black;
+}
